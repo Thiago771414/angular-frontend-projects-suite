@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/Angularref.png" width="900">
+</p>
+
+---
+
 # Overview
 
 This repository contains a **suite of practical frontend applications built with Angular**.
@@ -76,31 +82,41 @@ API Integration | External API consumption example |
 
 ## Dashboard
 
-![Dashboard](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject1.png" width="450">
+</p>
 
 ---
 
 ## Calculator
 
-![Calculator](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject2.png" width="450">
+</p>
 
 ---
 
 ## Currency Converter
 
-![Converter](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject3.png" width="450">
+</p>
 
 ---
 
 ## Task Manager
 
-![Tasks](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject4.png" width="450">
+</p>
 
 ---
 
 ## Tic Tac Toe Game
 
-![Game](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/angularproject5.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject5.png" width="450">
+</p>
 
 ---
 
