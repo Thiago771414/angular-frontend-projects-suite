@@ -6,14 +6,6 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Component%20Based-purple)
 ![Project Type](https://img.shields.io/badge/Project%20Type-Frontend%20Engineering%20Case%20Study-green)
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/Angularref.png" width="900">
-</p>
-
----
-
 # Overview
 
 This repository contains a **suite of practical frontend applications built with Angular**.
@@ -79,44 +71,23 @@ API Integration | External API consumption example |
 ---
 
 # Application Screens
+# Application Screens
 
-## Dashboard
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject1.png" width="450">
-</p>
 
----
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject1.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject2.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject3.png" width="200"></a> |
+| <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject4.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject5.png" width="200"></a> | **Assista à demonstração completa** |
 
-## Calculator
+**Click on the image above to watch the demonstration**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject2.png" width="450">
-</p>
-
----
-
-## Currency Converter
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject3.png" width="450">
-</p>
+</div>
 
 ---
 
-## Task Manager
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject4.png" width="450">
-</p>
-
----
-
-## Tic Tac Toe Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject5.png" width="450">
-</p>
 
 ---
 
