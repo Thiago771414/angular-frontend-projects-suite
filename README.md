@@ -79,7 +79,7 @@ API Integration | External API consumption example |
 | | | |
 | :---: | :---: | :---: |
 | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject1.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject2.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject3.png" width="200"></a> |
-| <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject4.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject5.png" width="200"></a> | **Assista à demonstração completa** |
+| <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject4.png" width="200"></a> | <a href="https://youtu.be/h-5Rk1ZAVIk"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/angularproject5.png" width="200"></a> |
 
 **Click on the image above to watch the demonstration**
 
